@@ -1,0 +1,14 @@
+E:\.net_assignments\assignment07\assignment07\bin\Debug\net6.0\assignment07.exe
+E:\.net_assignments\assignment07\assignment07\bin\Debug\net6.0\assignment07.deps.json
+E:\.net_assignments\assignment07\assignment07\bin\Debug\net6.0\assignment07.runtimeconfig.json
+E:\.net_assignments\assignment07\assignment07\bin\Debug\net6.0\assignment07.dll
+E:\.net_assignments\assignment07\assignment07\bin\Debug\net6.0\assignment07.pdb
+E:\.net_assignments\assignment07\assignment07\obj\Debug\net6.0\assignment07.GeneratedMSBuildEditorConfig.editorconfig
+E:\.net_assignments\assignment07\assignment07\obj\Debug\net6.0\assignment07.AssemblyInfoInputs.cache
+E:\.net_assignments\assignment07\assignment07\obj\Debug\net6.0\assignment07.AssemblyInfo.cs
+E:\.net_assignments\assignment07\assignment07\obj\Debug\net6.0\assignment07.csproj.CoreCompileInputs.cache
+E:\.net_assignments\assignment07\assignment07\obj\Debug\net6.0\assignment07.dll
+E:\.net_assignments\assignment07\assignment07\obj\Debug\net6.0\refint\assignment07.dll
+E:\.net_assignments\assignment07\assignment07\obj\Debug\net6.0\assignment07.pdb
+E:\.net_assignments\assignment07\assignment07\obj\Debug\net6.0\assignment07.genruntimeconfig.cache
+E:\.net_assignments\assignment07\assignment07\obj\Debug\net6.0\ref\assignment07.dll
