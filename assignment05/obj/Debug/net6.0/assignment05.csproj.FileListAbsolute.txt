@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\bin\Debug\net6.0\assignment05.exe
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\bin\Debug\net6.0\assignment05.deps.json
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\bin\Debug\net6.0\assignment05.runtimeconfig.json
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\bin\Debug\net6.0\assignment05.dll
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\bin\Debug\net6.0\assignment05.pdb
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\obj\Debug\net6.0\assignment05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\obj\Debug\net6.0\assignment05.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\obj\Debug\net6.0\assignment05.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\obj\Debug\net6.0\assignment05.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\obj\Debug\net6.0\assignment05.sourcelink.json
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\obj\Debug\net6.0\assignment05.dll
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\obj\Debug\net6.0\refint\assignment05.dll
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\obj\Debug\net6.0\assignment05.pdb
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\obj\Debug\net6.0\assignment05.genruntimeconfig.cache
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment05\obj\Debug\net6.0\ref\assignment05.dll
