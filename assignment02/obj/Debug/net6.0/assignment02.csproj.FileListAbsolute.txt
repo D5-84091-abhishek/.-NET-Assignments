@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\bin\Debug\net6.0\assignment02.exe
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\bin\Debug\net6.0\assignment02.deps.json
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\bin\Debug\net6.0\assignment02.runtimeconfig.json
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\bin\Debug\net6.0\assignment02.dll
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\bin\Debug\net6.0\assignment02.pdb
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\obj\Debug\net6.0\assignment02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\obj\Debug\net6.0\assignment02.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\obj\Debug\net6.0\assignment02.AssemblyInfo.cs
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\obj\Debug\net6.0\assignment02.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\obj\Debug\net6.0\assignment02.sourcelink.json
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\obj\Debug\net6.0\assignment02.dll
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\obj\Debug\net6.0\refint\assignment02.dll
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\obj\Debug\net6.0\assignment02.pdb
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\obj\Debug\net6.0\assignment02.genruntimeconfig.cache
+C:\Users\Admin\Desktop\.NET Assignments\.-NET-Assignments\assignment02\obj\Debug\net6.0\ref\assignment02.dll
