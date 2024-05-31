@@ -1,0 +1,132 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "Q6/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Q6.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q6.dll": {}
+        }
+      },
+      "Q7/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Q6": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Q7.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q7.dll": {}
+        }
+      },
+      "Q8/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "Q7": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Q8.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Q8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Q6/1.0.0": {
+      "type": "project",
+      "path": "../Q6/Q6.csproj",
+      "msbuildProject": "../Q6/Q6.csproj"
+    },
+    "Q7/1.0.0": {
+      "type": "project",
+      "path": "../Q7/Q7.csproj",
+      "msbuildProject": "../Q7/Q7.csproj"
+    },
+    "Q8/1.0.0": {
+      "type": "project",
+      "path": "../Q8/Q8.csproj",
+      "msbuildProject": "../Q8/Q8.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "Q8 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\varad\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\PG_DACAssignments\\MS.NET-Technologies\\Assignment\\Q12\\Q12.csproj",
+      "projectName": "Q12",
+      "projectPath": "E:\\PG_DACAssignments\\MS.NET-Technologies\\Assignment\\Q12\\Q12.csproj",
+      "packagesPath": "C:\\Users\\varad\\.nuget\\packages\\",
+      "outputPath": "E:\\PG_DACAssignments\\MS.NET-Technologies\\Assignment\\Q12\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\varad\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "E:\\PG_DACAssignments\\MS.NET-Technologies\\Assignment\\Q8\\Q8.csproj": {
+              "projectPath": "E:\\PG_DACAssignments\\MS.NET-Technologies\\Assignment\\Q8\\Q8.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
