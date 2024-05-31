@@ -1,0 +1,31 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Question10">
+      <HintPath>..\Question10\bin\Debug\net6.0\Question10.dll</HintPath>
+    </Reference>
+    <Reference Include="Question11">
+      <HintPath>..\Question11\bin\Debug\net6.0\Question11.dll</HintPath>
+    </Reference>
+    <Reference Include="Question12">
+      <HintPath>..\Question12\bin\Debug\net6.0\Question12.dll</HintPath>
+    </Reference>
+    <Reference Include="Question7">
+      <HintPath>..\Question8\bin\Debug\net6.0\Question7.dll</HintPath>
+    </Reference>
+    <Reference Include="Question8">
+      <HintPath>..\Question8\bin\Debug\net6.0\Question8.dll</HintPath>
+    </Reference>
+    <Reference Include="Question9">
+      <HintPath>..\Question9\bin\Debug\net6.0\Question9.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
